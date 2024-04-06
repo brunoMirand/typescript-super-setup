@@ -1,0 +1,27 @@
+{
+  "name": "typescript-super-setup",
+  "version": "1.0.0",
+  "description": "Projeto para exemplicar as diversas formas de usufruir do poder da tipagem estatica com Typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoMirand/typescript-super-setup.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts"
+  ],
+  "author": "Bruno Miranda :)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoMirand/typescript-super-setup/issues"
+  },
+  "homepage": "https://github.com/brunoMirand/typescript-super-setup#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  }
+}
